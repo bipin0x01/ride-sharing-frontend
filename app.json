@@ -1,10 +1,11 @@
 {
   "expo": {
     "name": "tuktuk",
+    "owner": "bipin0x01",
     "slug": "tuktuk",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/tuktuk_logo.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -24,10 +25,11 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.bipin0x01.tuktuk"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/icons/48x48.png"
     }
   }
 }
