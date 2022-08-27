@@ -1,6 +1,10 @@
 # Ride Sharing App Frontend with React Native
 
 
+
+
+#### Docs Coming Soon
+
 <!-- demo image -->
 
 <details>
@@ -12,7 +16,4 @@
 
 
 <!-- app apk download -->
-<h3>Demo Build Download</h3>
-<br>
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40bipin0x01/tuktuk-133ba15bcf3c4d84b5b66e2444a9941b-signed.apk" data-icon="octicon-download" data-size="large" aria-label="Download">Download</a>
+<a href="https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40bipin0x01/tuktuk-133ba15bcf3c4d84b5b66e2444a9941b-signed.apk"><img src="https://img.shields.io/badge/Download%20Demo-red.svg?style=for-the-badge" alt="Donate Now" height="40"/></a>
